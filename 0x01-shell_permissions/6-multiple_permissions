@@ -1,2 +1,2 @@
 #!/bin/bash
-chown ugo=rwx hello
+chown u=rwx g=rx o=r hello
